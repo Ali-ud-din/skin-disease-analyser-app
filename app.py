@@ -20,7 +20,7 @@ CLASS_NAMES = [
     'Tinea Ringworm Candidiasis and other Fungal Infections',
     'Warts Molluscum and other Viral Infections',
 ]
-DATASET_URL = "https://drive.google.com/drive/folders/1lAgzbmSgU8sM3KqyoidOlLDa73Zc7adj?usp=sharing"
+DATASET_URL = "https://drive.google.com/drive/folders/1iX7MIh33CCcBeewYX22scKF6imZQjFrp?usp=sharing"
 
 st.set_page_config(page_title="DermaScan AI", page_icon="🩺", layout="wide")
 
