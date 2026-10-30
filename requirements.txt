@@ -1,0 +1,6 @@
+streamlit
+numpy
+pandas
+pillow
+ai-edge-litert
+tensorflow
